@@ -4,6 +4,7 @@ template: home.hbt
 ---
 <h1 class="mt-5">What should I do when health becomes a challenge?</h1>      
 <img src="images/challenge.jpg" alt="What to do when health becomes a challenge">
+#This should be an h1 tag
 <p>Being the caregiver for someone who is declining in health is like navigating through a blizzard!  There are so many unknown factors and new paths to find and pursue.  The goal of this website is to provide families with information about where to turn when they are faced with the challenge of meeting the needs of a loved one who is declining. </p>
 <p>Let me introduce myself.  My name is LeeAnn Sudbury. I graduated with a Master’s Degree in Gerontology and a Master’s degree in Social work.  My career emphasis has been on aging and declining health. I have been the caregiver for my own dying parents, the parents of my husband, and for 3 declining aunts and an uncle.  I have also had the privilege of serving many hospice patients prior to my
 retirement. Let’s just say—I have been where you are!  
