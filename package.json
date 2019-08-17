@@ -1,0 +1,28 @@
+{
+  "name": "metalsmith-demo-empty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KBHarrison/metalsmith-demo-empty.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KBHarrison/metalsmith-demo-empty/issues"
+  },
+  "homepage": "https://github.com/KBHarrison/metalsmith-demo-empty#readme",
+  "dependencies": {
+    "handlebars": "^4.1.2",
+    "metalsmith": "^2.3.0",
+    "metalsmith-collections": "^0.9.0",
+    "metalsmith-markdown": "^1.2.0",
+    "metalsmith-permalinks": "^2.2.0",
+    "metalsmith-templates": "^0.7.0"
+  }
+}
