@@ -1,6 +1,6 @@
 {{> header}}
 
-<h2>{{title}}</h2>
+<title>{{title}}</title>
 
 <article>
     {{{contents}}}

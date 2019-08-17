@@ -2,7 +2,7 @@
 title: Home
 template: home.hbt
 ---
-#What should I do when health becomes a challenge?
+<h1>What should I do when health becomes a challenge?</h1>
 ![Health_Challenge](src/images/challenge.jpg "What to do when health becomes a challenge")
 Being the caregiver for someone who is declining in health is like navigating through a blizzard!  There are so many unknown factors and new paths to find and pursue.  The goal of this website is to provide families with information about where to turn when they are faced with the challenge of meeting the needs of a loved one who is declining. 
 Let me introduce myself.  My name is LeeAnn Sudbury. 
