@@ -1,0 +1,12 @@
+.btn {
+    width: 40%;
+    padding:2px;
+    display:block;
+    margin:15px;
+    right:0;
+    position:relative;
+    top:5px;
+}
+.inline {
+    display:inline-block;
+}

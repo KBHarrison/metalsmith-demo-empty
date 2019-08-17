@@ -4,13 +4,20 @@ template: home.hbt
 ---
 <h1 class="mt-5">What should I do when health becomes a challenge?</h1>      
 <img src="images/challenge.jpg" alt="What to do when health becomes a challenge">
-<a class="btn btn-primary float-right" href="" role="button">What are the options when health starts to decline?</a>
+<a class="btn btn-primary float-right" href="" role="button" style="">What are the options when health starts to decline?</a>
+</br>
 <a class="btn btn-secondary float-right" href="#" role="button">What is Personal Care  or Private Duty</a>
+</br>
 <a class="btn btn-primary float-right" href="#" role="button">Using Therapy for physical strength, swallowing after a stroke,  or speech</a>
+</br>
 <a class="btn btn-success float-right" href="#" role="button">Is Home Health the right fit?</a>
+</br>
 <a class="btn btn-danger float-right" href="#" role="button">What is Palliative Care?</a>
+</br>
 <a class="btn btn-warning float-right" href="#" role="button">Using Hospice for short or long term care </a>
+</br>
 <a class="btn btn-info float-right" href="#" role="button">Assisted Living </a>
+</br>
 <a class="btn btn-dark float-right" href="#" role="button">Long Term Planning</a>
 
 <p>Being the caregiver for someone who is declining in health is like navigating through a blizzard!  There are so many unknown factors and new paths to find and pursue.  The goal of this website is to provide families with information about where to turn when they are faced with the challenge of meeting the needs of a loved one who is declining. </p>

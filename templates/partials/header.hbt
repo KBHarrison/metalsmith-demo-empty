@@ -12,7 +12,7 @@
 
   <!-- Bootstrap core CSS -->
   <link href="styles/bootstrap.min.css" rel="stylesheet">
-  <link rel="stylesheet" href="styles/custom.css">
+  <link rel="stylesheet" href="styles/main.css">
 </head>
 
 <body>
