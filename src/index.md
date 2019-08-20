@@ -2,24 +2,24 @@
 title: Home
 template: home.hbt
 ---
-<h1 class="mt-5">What should I do when health becomes a challenge?</h1>      
-<img src="images/challenge.jpg" alt="What to do when health becomes a challenge">
-<a class="btn btn-primary float-right" href="" role="button" style="">What are the options when health starts to decline?</a>
-</br>
-<a class="btn btn-secondary float-right" href="#" role="button">What is Personal Care  or Private Duty</a>
-</br>
-<a class="btn btn-primary float-right" href="#" role="button">Using Therapy for physical strength, swallowing after a stroke,  or speech</a>
-</br>
-<a class="btn btn-success float-right" href="#" role="button">Is Home Health the right fit?</a>
-</br>
-<a class="btn btn-danger float-right" href="#" role="button">What is Palliative Care?</a>
-</br>
-<a class="btn btn-warning float-right" href="#" role="button">Using Hospice for short or long term care </a>
-</br>
-<a class="btn btn-info float-right" href="#" role="button">Assisted Living </a>
-</br>
-<a class="btn btn-dark float-right" href="#" role="button">Long Term Planning</a>
 
+<h1 class="mt-5">What should I do when health becomes a challenge?</h1>     
+        <div class="row">
+<div class="col-6">
+    <img src="images/challenge.jpg" alt="What to do when health becomes a challenge" style="size:auto;" >
+</div>
+    <div class="col btn-group-vertical">
+    <a class="btn btn-primary" href="" role="button">What are the options when health starts to decline?</a>
+    <a class="btn btn-secondary" href="#" role="button">What is Personal Care  or Private Duty</a>
+    <a class="btn btn-primary" href="#" role="button">Using Therapy for physical strength, swallowing after a stroke,  or speech</a>
+    <a class="btn btn-success" href="#" role="button">Is Home Health the right fit?</a>
+    <a class="btn btn-danger" href="#" role="button">What is Palliative Care?</a>
+    <a class="btn btn-warning" href="#" role="button">Using Hospice for short or long term care </a>
+    <a class="btn btn-info" href="#" role="button">Assisted Living </a>
+    <a class="btn btn-dark" href="#" role="button">Long Term Planning</a>
+</div>
+</div>
+</div>
 <p>Being the caregiver for someone who is declining in health is like navigating through a blizzard!  There are so many unknown factors and new paths to find and pursue.  The goal of this website is to provide families with information about where to turn when they are faced with the challenge of meeting the needs of a loved one who is declining. </p>
 <p>Let me introduce myself.  My name is LeeAnn Sudbury. I graduated with a Master’s Degree in Gerontology and a Master’s degree in Social work.  My career emphasis has been on aging and declining health. I have been the caregiver for my own dying parents, the parents of my husband, and for 3 declining aunts and an uncle.  I have also had the privilege of serving many hospice patients prior to my
 retirement. Let’s just say—I have been where you are!  

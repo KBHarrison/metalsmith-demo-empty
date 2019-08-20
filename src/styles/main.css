@@ -10,3 +10,8 @@
 .inline {
     display:inline-block;
 }
+
+.btn{
+    display:inline-block;
+    float:right;
+}
