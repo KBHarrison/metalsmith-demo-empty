@@ -1,5 +1,5 @@
 ---
-title: What should I do when health becomes a challenge?
+title: Using Hospice for short of long term care
 template: main.hbt
 ---
 

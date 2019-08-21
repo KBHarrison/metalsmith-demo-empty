@@ -6,12 +6,29 @@
     right:0;
     position:relative;
     top:5px;
+    display:inline-block;
+    float:right;
 }
+
 .inline {
     display:inline-block;
 }
 
-.btn{
-    display:inline-block;
-    float:right;
+img {
+    width:100%;
+    height:auto;
+}
+p {
+    text-indent:30px;
+}
+.text-paragraph {
+    margin:15px;
+}
+footer {
+    margin:15px;
+    border-style:solid;
+    border-color: black;
+    border-width:1px;
+    background-color:antiquewhite;
+    text-align:center;
 }

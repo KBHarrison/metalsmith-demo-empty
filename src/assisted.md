@@ -1,5 +1,5 @@
 ---
-title: What should I do when health becomes a challenge?
+title: Assisted Living
 template: main.hbt
 ---
 

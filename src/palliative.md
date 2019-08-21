@@ -1,5 +1,5 @@
 ---
-title: What should I do when health becomes a challenge?
+title: What is Palliative Care
 template: main.hbt
 ---
 
@@ -7,7 +7,7 @@ template: main.hbt
 <div class="col-6">
     <img src="images/challenge.jpg" alt="What to do when health becomes a challenge" style="size:auto;" >
 </div>
-    <div class="col btn-group-vertical">
+     <div class="col btn-group-vertical">
     <a class="btn btn-primary" href="/build/options/index.html" role="button">What are the options when health starts to decline?</a>
     <a class="btn btn-secondary" href="/build/personal_care/index.html" role="button">What is Personal Care  or Private Duty</a>
     <a class="btn btn-primary" href="/build/therapy/index.html" role="button">Using Therapy for physical strength, swallowing after a stroke,  or speech</a>

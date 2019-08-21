@@ -8,8 +8,6 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Bare - Start Bootstrap Template</title>
-
   <!-- Bootstrap core CSS -->
   <link href="styles/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="styles/main.css">

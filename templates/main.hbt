@@ -1,0 +1,9 @@
+{{> header}}
+
+<title>{{title}}</title>
+<h1 class="mt-5">{{title}}</h1>
+<article>
+    {{{contents}}}
+</article>
+
+{{> footer}}
