@@ -2,30 +2,35 @@
 title: What is Personal Care or Private Duty?
 template: main.hbt
 ---
-
-<div class="row">
-<div class="col-6">
-    <img src="images/challenge.jpg" alt="What to do when health becomes a challenge" style="size:auto;" >
-</div>
-     <div class="col btn-group-vertical">
-    <a class="btn btn-primary" href="/build/options/index.html" role="button">What are the options when health starts to decline?</a>
-    <a class="btn btn-secondary" href="/build/personal_care/index.html" role="button">What is Personal Care  or Private Duty</a>
-    <a class="btn btn-primary" href="/build/therapy/index.html" role="button">Using Therapy for physical strength, swallowing after a stroke,  or speech</a>
-    <a class="btn btn-success" href="/build/home_health/index.html" role="button">Is Home Health the right fit?</a>
-    <a class="btn btn-danger" href="/build/palliative/index.html" role="button">What is Palliative Care?</a>
-    <a class="btn btn-warning" href="/build/hospice/index.html" role="button">Using Hospice for short or long term care </a>
-    <a class="btn btn-info" href="/build/assisted/index.html" role="button">Assisted Living </a>
-    <a class="btn btn-dark" href="/build/long_term/index.html" role="button">Long Term Planning</a>
-</div>
+<div class="btn-group-vertical float-right" style="width:33%;">
+<a class="btn btn-primary" href="/build/options/index.html" role="button">What are the options when health starts to decline?</a>
+<a class="btn btn-secondary" href="/build/personal_care/index.html" role="button">What is Personal Care  or Private Duty</a>
+<a class="btn btn-primary" href="/build/therapy/index.html" role="button">Using Therapy for physical strength, swallowing after a stroke,  or speech</a>
+<a class="btn btn-success" href="/build/home_health/index.html" role="button">Is Home Health the right fit?</a>
+<a class="btn btn-danger" href="/build/palliative/index.html" role="button">What is Palliative Care?</a>
+<a class="btn btn-warning" href="/build/hospice/index.html" role="button">Using Hospice for short or long term care </a>
+<a class="btn btn-info" href="/build/assisted/index.html" role="button">Assisted Living </a>
+<a class="btn btn-dark" href="/build/long_term/index.html" role="button">Long Term Planning</a>
 </div>
 <div class="text-paragraph">
-<p>Being the caregiver for someone who is declining in health is like navigating through a blizzard!  There are so many unknown factors and new paths to find and pursue.  The goal of this website is to provide families with information about where to turn when they are faced with the challenge of meeting the needs of a loved one who is declining. </p>
-<p>Let me introduce myself.  My name is LeeAnn Sudbury. I graduated with a Master’s Degree in Gerontology and a Master’s degree in Social work.  My career emphasis has been on aging and declining health. I have been the caregiver for my own dying parents, the parents of my husband, and for 3 declining aunts and an uncle.  I have also had the privilege of serving many hospice patients prior to my
-retirement. Let’s just say—I have been where you are!  
-It is not the intent of this website to sell you anything. The site in informational only. Depending on where you live, you can research the companies available in your area.</p>
-<p>
-     The types of businesses you would look for would be Personal Care Agencies, Therapists, Home Health, Hospice, and Assisted Living or Skilled Nursing facilities.  There are many available, no matter where you live.  Choosing the options that will make you happy is a personal choice.  It would be best to visit and/or interview several in the category of help you need. It is also important to allow the person who is needing the help to be part of the decision if he/she is able to.  Involving them might help prevent depression or adjustment anxiety, especially if it is their desire to stay in their own home.</p>
-          <p>
-     One of the biggest mistakes families make is to expect religious leaders in the area to care for their loved one.  The responsibilities of religious leaders should be short term and supportive only.
+
+<p>When a person starts to decline, if there isn’t a family member who can stay with them, often, it is less expensive to hire someone to provide some of the care right in the home.  There are licensed, professional companies that specialize in private duty care. Sometimes, under specific circumstances that are deemed applicable by Medicare, the cost of that care can be supplemented through Medicare Benefits.   </p>
+  <p>Traditional Medicare and Health Care Insurance companies do not pay for the following:</p>
+  <ul>
+  <li>24 hour care</li>
+  <li>Meals delivered to your home</li>
+      <li>Personal care, such as bathing, dressing and using the bathroom (if these are your only needs)</li>
+      <li>Transportation and shopping services</li>
+      <li>Services that your doctor may order, but that the entity who might pay for them (Medicare or Insurance) do not consider them reasonable or necessary</li>
+  </ul>
+  <p>Personal Care or Private Duty agencies specialize in providing qualified caregivers for hire.  These professionals provide non-medical assistance with any or all of the following needs:  bathing, dressing, eating, meal preparation, medication reminders, companionship, walking, transferring from bed to chair and back, light housekeeping and transportation.  
+Personal Care or Private Duty Care is usually paid for by the family and the 2019-2020 cost of personal care is around $25-35 per hour. These services might be used for short term breaks for family members to take a vacation or a rest, or for daily, long term care, or for a medical need that requires nurses’ visits.
 </p>
+<img class="float-left" alt="Medical Care" src="images/personal_care.jpg" id="personal_care">
+  <p>There are a few questions to ask yourself when thinking about Private Duty or Personal Care.  Does your loved one need help 24/7 or care for just a few hours each day?  Are their family members, including adult grandchildren who could spend an hour or so helping each week?  Make sure when you make the decision to hire someone for Private Duty or Personal Care, that you are using them only to supplement what you cannot do as a family. </p>
+  <p>     It is also important to consider that if your loved one is incapable of getting in and out of bed, or in an emergency, could not get to a safe place, it is against the law to leave them alone.  However, if they are mostly okay on their own, you could consider providing a medical alert necklace or wrist band.  Some can even be activated by a fall or the push of a button.  Once activated, calls are automatically made to you or someone you have specified to receive those emergency calls.  </p>
+  <p>If finances are an issue, you might try contacting your local health department or aging services to  inquire if there are Medicaid waiver programs available. If your loved one or their spouse is a Veteran, there is a possibility they are eligible for assistance. Contact the VA Administration for details.</p>
+          
 </div>
+
+

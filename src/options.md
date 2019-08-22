@@ -29,5 +29,5 @@ template: main.hbt
 </div>
 </div>
 <div class="row">
-<img src="images/options.html" alt="Options">
+<img src="images/options.jpg" alt="Options">
 </div>

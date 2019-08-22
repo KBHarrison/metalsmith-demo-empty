@@ -2,30 +2,31 @@
 title: Using Therapy for physical strength, swallowing after a stroke, or improving speech
 template: main.hbt
 ---
+<div class="btn-group-vertical float-right" style="width:33%;">
+<a class="btn btn-primary" href="/build/options/index.html" role="button">What are the options when health starts to decline?</a>
+<a class="btn btn-secondary" href="/build/personal_care/index.html" role="button">What is Personal Care  or Private Duty</a>
+<a class="btn btn-primary" href="/build/therapy/index.html" role="button">Using Therapy for physical strength, swallowing after a stroke,  or speech</a>
+<a class="btn btn-success" href="/build/home_health/index.html" role="button">Is Home Health the right fit?</a>
+<a class="btn btn-danger" href="/build/palliative/index.html" role="button">What is Palliative Care?</a>
+<a class="btn btn-warning" href="/build/hospice/index.html" role="button">Using Hospice for short or long term care </a>
+<a class="btn btn-info" href="/build/assisted/index.html" role="button">Assisted Living </a>
+<a class="btn btn-dark" href="/build/long_term/index.html" role="button">Long Term Planning</a>
+</div>
+<img class="float-left" src="images/therapy1.jpg" alt="Therapy" id="therapy1">
+<div class="text-paragraph contentDiv">
 
-<div class="row">
-<div class="col-6">
-    <img src="images/challenge.jpg" alt="What to do when health becomes a challenge" style="size:auto;" >
+  <p>Therapy is an important resource to use when health declines.  It can tremendously improve the quality of life for your loved one.  </p>
+          <p> Therapy is a bit of an unsung hero when it comes to declining health.  There are many types of therapy available.  You are probably unaware of all of the resources that can be used. For instance, Speech Therapy can be used to improve swallowing or to help prevent aspirations and pneumonia.  Memory re-training and Problem solving therapy can be engaged or strategies can be used to help with mild decreased memory.  Therapists can also assist with medication management.</p>
+          <p>Occupational therapy can be used to help with self-care skill and strategies, including equipment to safely shower, dress, feed oneself, and cooking.</p>
+          <p>Range of motion in the hands, elbows, shoulders and legs can be improved through therapy, and fitting a person for medical equipment like wheel chairs and walkers and training and assessment for home safety is also done by therapist.</p>
+          <p>Physical Therapists help people walk better (gait training) if they have had an illness, stroke, or have become physically weak.</p>                    
+          <img id="therapy2" src="images/therapy2.jpg">
+
+  <p>Physical Therapy is important after a knee or hip replacement, or for pain management.  Therapists also teach patients how to transfer from bed to chair more safely and with less pain when they have experienced a decline.</p>
+  <p>Therapy can be used to strengthen a person’s ability to get around.  Even if your loved one cannot walk, therapists can teach them how to use the best of what they have for their benefit.  They can help your loved one learn how to transfer from one stationary place to another, walk better and provide exercises to give them added strength to care for themselves.  </p>
+  <p>If you can get your loved one to a better physical place, the cost of the care will more than likely go down.  Therapy  is an invaluable resource to understand and use.</p>
+  </br>
+
 </div>
-     <div class="col btn-group-vertical">
-    <a class="btn btn-primary" href="/build/options/index.html" role="button">What are the options when health starts to decline?</a>
-    <a class="btn btn-secondary" href="/build/personal_care/index.html" role="button">What is Personal Care  or Private Duty</a>
-    <a class="btn btn-primary" href="/build/therapy/index.html" role="button">Using Therapy for physical strength, swallowing after a stroke,  or speech</a>
-    <a class="btn btn-success" href="/build/home_health/index.html" role="button">Is Home Health the right fit?</a>
-    <a class="btn btn-danger" href="/build/palliative/index.html" role="button">What is Palliative Care?</a>
-    <a class="btn btn-warning" href="/build/hospice/index.html" role="button">Using Hospice for short or long term care </a>
-    <a class="btn btn-info" href="/build/assisted/index.html" role="button">Assisted Living </a>
-    <a class="btn btn-dark" href="/build/long_term/index.html" role="button">Long Term Planning</a>
-</div>
-</div>
-<div class="text-paragraph">
-<p>Being the caregiver for someone who is declining in health is like navigating through a blizzard!  There are so many unknown factors and new paths to find and pursue.  The goal of this website is to provide families with information about where to turn when they are faced with the challenge of meeting the needs of a loved one who is declining. </p>
-<p>Let me introduce myself.  My name is LeeAnn Sudbury. I graduated with a Master’s Degree in Gerontology and a Master’s degree in Social work.  My career emphasis has been on aging and declining health. I have been the caregiver for my own dying parents, the parents of my husband, and for 3 declining aunts and an uncle.  I have also had the privilege of serving many hospice patients prior to my
-retirement. Let’s just say—I have been where you are!  
-It is not the intent of this website to sell you anything. The site in informational only. Depending on where you live, you can research the companies available in your area.</p>
-<p>
-     The types of businesses you would look for would be Personal Care Agencies, Therapists, Home Health, Hospice, and Assisted Living or Skilled Nursing facilities.  There are many available, no matter where you live.  Choosing the options that will make you happy is a personal choice.  It would be best to visit and/or interview several in the category of help you need. It is also important to allow the person who is needing the help to be part of the decision if he/she is able to.  Involving them might help prevent depression or adjustment anxiety, especially if it is their desire to stay in their own home.</p>
-          <p>
-     One of the biggest mistakes families make is to expect religious leaders in the area to care for their loved one.  The responsibilities of religious leaders should be short term and supportive only.
-</p>
-</div>
+
+

@@ -31,4 +31,23 @@ footer {
     border-width:1px;
     background-color:antiquewhite;
     text-align:center;
+    bottom:0;
+    
 }
+.img-container {
+  float: left;
+  width: 33.33%; /* three containers (use 25% for four, and 50% for two, etc) */
+  padding: 5px; /* if you want space between the images */
+}
+#personal_care {
+    width:25%;
+}
+#therapy1{
+    width:15%;
+    margin:10px;
+}
+#therapy2{
+  width:50%;
+  float:right;
+
+  }
