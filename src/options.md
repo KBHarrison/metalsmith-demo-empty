@@ -5,7 +5,7 @@ template: main.hbt
 
 <div class="row">
 <div class="col-6 text-paragraph">
-    <p>According to the National Council on Aging, 92% of seniors over 65 have at least one chronic disease, and 77% have two ore more.  Common chronic health conditions are causing two-thirds of the deaths among seniors each year. 1</p>
+    <p>According to the National Council on Aging, 92% of seniors over 65 have at least one chronic disease, and 77% have two ore more.  Common chronic health conditions are causing two-thirds of the deaths among seniors each year. <sup>1</sup></p>
           <p>As people have increasing health concerns, it is important to make the right decisions for their care, including helping them to feel they are in charge of the decisions being made. If they are able to participate in the decision making process, the emotional outcome will be better.  The following are a few of the options that might be considered. They will be explained and discussed in detail by clicking on the categories at the right.</p>
           <ol>
           <li>Getting personal care or private duty caregivers to come into the home</li>
@@ -16,6 +16,13 @@ template: main.hbt
         <li>Options for Assisted Living Facilities</li>
               <li>Options for Skilled Nursing Facilities</li>
           </ol>
+    <p class="reference">
+        Resources: <br>
+    1. “Ten common Elderly Issues” (2016 February 11) Retrieved from 
+           https://vitalrecord.tamhsc,edu?10-common-elderly-       
+           health-issues/ <br>
+    2. Shutterstock – licensed use for photos
+    </p>
 </div>
     <div class="col btn-group-vertical">
     <a class="btn btn-primary" href="/build/options/index.html" role="button">What are the options when health starts to decline?</a>

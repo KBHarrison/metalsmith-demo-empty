@@ -25,7 +25,7 @@ template: main.hbt
   <p>Physical Therapy is important after a knee or hip replacement, or for pain management.  Therapists also teach patients how to transfer from bed to chair more safely and with less pain when they have experienced a decline.</p>
   <p>Therapy can be used to strengthen a person’s ability to get around.  Even if your loved one cannot walk, therapists can teach them how to use the best of what they have for their benefit.  They can help your loved one learn how to transfer from one stationary place to another, walk better and provide exercises to give them added strength to care for themselves.  </p>
   <p>If you can get your loved one to a better physical place, the cost of the care will more than likely go down.  Therapy  is an invaluable resource to understand and use.</p>
-  </br>
+  <br>
 
 </div>
 

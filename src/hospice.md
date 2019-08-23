@@ -1,31 +1,30 @@
 ---
-title: Using Hospice for short of long term care
+title: Using Hospice for short or long term care
 template: main.hbt
 ---
+<div class="btn-group-vertical float-right" style="width:33%;">
+<a class="btn btn-primary" href="/build/options/index.html" role="button">What are the options when health starts to decline?</a>
+<a class="btn btn-secondary" href="/build/personal_care/index.html" role="button">What is Personal Care  or Private Duty</a>
+<a class="btn btn-primary" href="/build/therapy/index.html" role="button">Using Therapy for physical strength, swallowing after a stroke,  or speech</a>
+<a class="btn btn-success" href="/build/home_health/index.html" role="button">Is Home Health the right fit?</a>
+<a class="btn btn-danger" href="/build/palliative/index.html" role="button">What is Palliative Care?</a>
+<a class="btn btn-warning" href="/build/hospice/index.html" role="button">Using Hospice for short or long term care </a>
+<a class="btn btn-info" href="/build/assisted/index.html" role="button">Assisted Living </a>
+<a class="btn btn-dark" href="/build/long_term/index.html" role="button">Long Term Planning</a>
+</div>
+<img src="images/hospice.jpg" style="width: 60%" alt="Hospice Care">
+<div class="text-paragraph contentDiv">
 
-<div class="row">
-<div class="col-6">
-    <img src="images/challenge.jpg" alt="What to do when health becomes a challenge" style="size:auto;" >
-</div>
-    <div class="col btn-group-vertical">
-    <a class="btn btn-primary" href="/build/options/index.html" role="button">What are the options when health starts to decline?</a>
-    <a class="btn btn-secondary" href="/build/personal_care/index.html" role="button">What is Personal Care  or Private Duty</a>
-    <a class="btn btn-primary" href="/build/therapy/index.html" role="button">Using Therapy for physical strength, swallowing after a stroke,  or speech</a>
-    <a class="btn btn-success" href="/build/home_health/index.html" role="button">Is Home Health the right fit?</a>
-    <a class="btn btn-danger" href="/build/palliative/index.html" role="button">What is Palliative Care?</a>
-    <a class="btn btn-warning" href="/build/hospice/index.html" role="button">Using Hospice for short or long term care </a>
-    <a class="btn btn-info" href="/build/assisted/index.html" role="button">Assisted Living </a>
-    <a class="btn btn-dark" href="/build/long_term/index.html" role="button">Long Term Planning</a>
-</div>
-</div>
-<div class="text-paragraph">
-<p>Being the caregiver for someone who is declining in health is like navigating through a blizzard!  There are so many unknown factors and new paths to find and pursue.  The goal of this website is to provide families with information about where to turn when they are faced with the challenge of meeting the needs of a loved one who is declining. </p>
-<p>Let me introduce myself.  My name is LeeAnn Sudbury. I graduated with a Master’s Degree in Gerontology and a Master’s degree in Social work.  My career emphasis has been on aging and declining health. I have been the caregiver for my own dying parents, the parents of my husband, and for 3 declining aunts and an uncle.  I have also had the privilege of serving many hospice patients prior to my
-retirement. Let’s just say—I have been where you are!  
-It is not the intent of this website to sell you anything. The site in informational only. Depending on where you live, you can research the companies available in your area.</p>
-<p>
-     The types of businesses you would look for would be Personal Care Agencies, Therapists, Home Health, Hospice, and Assisted Living or Skilled Nursing facilities.  There are many available, no matter where you live.  Choosing the options that will make you happy is a personal choice.  It would be best to visit and/or interview several in the category of help you need. It is also important to allow the person who is needing the help to be part of the decision if he/she is able to.  Involving them might help prevent depression or adjustment anxiety, especially if it is their desire to stay in their own home.</p>
-          <p>
-     One of the biggest mistakes families make is to expect religious leaders in the area to care for their loved one.  The responsibilities of religious leaders should be short term and supportive only.
+<p>People often wait to call hospice until there are only a few days or a few weeks remaining in a person’s life.  This has resulted in people thinking that Hospice is only available when someone is dying.<sup>4</sup>  That mindset is the most misunderstood concept about hospice care! Hospice is a benefit under Medicare that belongs to the patient. When patients enter hospice, it is because they qualify for the benefit and choose to access it.<sup>5</sup> 
 </p>
+          <p>Hospice in available long before death is imminent. Sadly, even some doctors are not aware of all the ways that hospice can be beneficial.  If you or your doctor are not sure, contact your state hospice agency or NHPCO.org for more information.</p>
+          <p>Hospice is available to use whenever someone is faced with a serious, life threatening illness.  To qualify for hospice, the illness would be estimated to cause dramatic decline and potentially death in six months. Symptoms might include sudden weight loss or weight gain, dizziness, trouble breathing, frailty or weakness.  These symptoms could be signs of a life-threatening, terminal condition. Rather than just throwing up your hands in despair, discuss Hospice with your primary care physician or contact a hospice agency for a medical evaluation. Hospice can be used on a short-term basis and the result might be improved health.  Once there is a marked improvement in a patient's condition, the patient’s doctor would reevaluate six-month prognosis and take the patient off hospice<sup>5</sup></p>
+          <p>Hospice is always appropriate when a person is rapidly declining and the decline could lead to death.  When a person is on hospice, some services are no longer paid for by Medicare or Medicaid such as curative care and some types of therapy.  However, when on Hospice, a patient is very supported in their frailty.  This includes a visit from a nurse, usually weekly; a visit in your home from your Hospice doctor about every three months; personal support for bathing/showering; sometimes light housekeeping and meal preparation can be included if the personal care takes less than one hour.</p>
+<p class="reference">
+Resources: <br>
+4. Beth Noyce, RN, NoyceConsulting.com <br>
+5. https://www.vitas.com/hospice-and-palliative-care-basics</p>
+
 </div>
+
+

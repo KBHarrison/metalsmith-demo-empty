@@ -51,3 +51,11 @@ footer {
   float:right;
 
   }
+h1 {
+    text-align:center;
+}
+.reference {
+    font-style: italic;
+    font-size:9;
+    
+}

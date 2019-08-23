@@ -2,30 +2,24 @@
 title: What is Palliative Care
 template: main.hbt
 ---
+<div class="btn-group-vertical float-right" style="width:33%;">
+<a class="btn btn-primary" href="/build/options/index.html" role="button">What are the options when health starts to decline?</a>
+<a class="btn btn-secondary" href="/build/personal_care/index.html" role="button">What is Personal Care  or Private Duty</a>
+<a class="btn btn-primary" href="/build/therapy/index.html" role="button">Using Therapy for physical strength, swallowing after a stroke,  or speech</a>
+<a class="btn btn-success" href="/build/home_health/index.html" role="button">Is Home Health the right fit?</a>
+<a class="btn btn-danger" href="/build/palliative/index.html" role="button">What is Palliative Care?</a>
+<a class="btn btn-warning" href="/build/hospice/index.html" role="button">Using Hospice for short or long term care </a>
+<a class="btn btn-info" href="/build/assisted/index.html" role="button">Assisted Living </a>
+<a class="btn btn-dark" href="/build/long_term/index.html" role="button">Long Term Planning</a>
+</div>
+<div class="text-paragraph contentDiv">
 
-<div class="row">
-<div class="col-6">
-    <img src="images/challenge.jpg" alt="What to do when health becomes a challenge" style="size:auto;" >
+<p>Palliative Care relieves symptoms and stress due to serious, incurable illnesses.  It provides comfort, not cures.  If your needs qualify under the home health services, and if you meet all of the required home health guidelines, you can receive Palliative Care through a home health agency.<sup>3</sup> </p>
+      <p>However, if you have a condition that could result in death in six months or fewer, you might want to consider using Hospice.  Hospice provides more care and it is paid for by Medicare/Medicaid. If the condition you have is not a terminal disease, there is a possibility that Hospice can provide the care and attention that you need to get you back to better health.</p>
+ 
 </div>
-     <div class="col btn-group-vertical">
-    <a class="btn btn-primary" href="/build/options/index.html" role="button">What are the options when health starts to decline?</a>
-    <a class="btn btn-secondary" href="/build/personal_care/index.html" role="button">What is Personal Care  or Private Duty</a>
-    <a class="btn btn-primary" href="/build/therapy/index.html" role="button">Using Therapy for physical strength, swallowing after a stroke,  or speech</a>
-    <a class="btn btn-success" href="/build/home_health/index.html" role="button">Is Home Health the right fit?</a>
-    <a class="btn btn-danger" href="/build/palliative/index.html" role="button">What is Palliative Care?</a>
-    <a class="btn btn-warning" href="/build/hospice/index.html" role="button">Using Hospice for short or long term care </a>
-    <a class="btn btn-info" href="/build/assisted/index.html" role="button">Assisted Living </a>
-    <a class="btn btn-dark" href="/build/long_term/index.html" role="button">Long Term Planning</a>
-</div>
-</div>
-<div class="text-paragraph">
-<p>Being the caregiver for someone who is declining in health is like navigating through a blizzard!  There are so many unknown factors and new paths to find and pursue.  The goal of this website is to provide families with information about where to turn when they are faced with the challenge of meeting the needs of a loved one who is declining. </p>
-<p>Let me introduce myself.  My name is LeeAnn Sudbury. I graduated with a Master’s Degree in Gerontology and a Master’s degree in Social work.  My career emphasis has been on aging and declining health. I have been the caregiver for my own dying parents, the parents of my husband, and for 3 declining aunts and an uncle.  I have also had the privilege of serving many hospice patients prior to my
-retirement. Let’s just say—I have been where you are!  
-It is not the intent of this website to sell you anything. The site in informational only. Depending on where you live, you can research the companies available in your area.</p>
-<p>
-     The types of businesses you would look for would be Personal Care Agencies, Therapists, Home Health, Hospice, and Assisted Living or Skilled Nursing facilities.  There are many available, no matter where you live.  Choosing the options that will make you happy is a personal choice.  It would be best to visit and/or interview several in the category of help you need. It is also important to allow the person who is needing the help to be part of the decision if he/she is able to.  Involving them might help prevent depression or adjustment anxiety, especially if it is their desire to stay in their own home.</p>
-          <p>
-     One of the biggest mistakes families make is to expect religious leaders in the area to care for their loved one.  The responsibilities of religious leaders should be short term and supportive only.
+<img style="width:60%" src="images/palliative.jpg" alt="Palliative Care">
+     <p class="reference">
+    Resources: <br>
+    3.  Beth Noyce, RN, NoyceConsulting.com
 </p>
-</div>
