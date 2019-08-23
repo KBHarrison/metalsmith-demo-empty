@@ -3,20 +3,16 @@ title: What should I do when health becomes a challenge?
 template: main.hbt
 ---
 
-<div class="row">
-<div class="col-6">
-    <img src="images/challenge.jpg" alt="What to do when health becomes a challenge" style="size:auto;" >
-</div>
-    <div class="col btn-group-vertical">
-    <a class="btn btn-primary" href="/options/index.html" role="button">What are the options when health starts to decline?</a>
-    <a class="btn btn-secondary" href="/personal_care/index.html" role="button">What is Personal Care  or Private Duty</a>
-    <a class="btn btn-primary" href="/therapy/index.html" role="button">Using Therapy for physical strength, swallowing after a stroke,  or speech</a>
-    <a class="btn btn-success" href="/home_health/index.html" role="button">Is Home Health the right fit?</a>
-    <a class="btn btn-danger" href="/palliative/index.html" role="button">What is Palliative Care?</a>
-    <a class="btn btn-warning" href="/hospice/index.html" role="button">Using Hospice for short or long term care </a>
-    <a class="btn btn-info" href="/assisted/index.html" role="button">Assisted Living </a>
-    <a class="btn btn-dark" href="/long_term/index.html" role="button">Long Term Planning</a>
-</div>
+<img src="images/challenge.jpg" class="float-left" alt="What to do when health becomes a challenge" style="width: 60%;" >
+<div class="float_right btn-group-vertical" style="width:33%;">
+<a class="btn btn-primary" href="/options/index.html" role="button">What are the options when health starts to decline?</a>
+<a class="btn btn-secondary" href="/personal_care/index.html" role="button">What is Personal Care  or Private Duty</a>
+<a class="btn btn-primary" href="/therapy/index.html" role="button">Using Therapy for physical strength, swallowing after a stroke,  or speech</a>
+<a class="btn btn-success" href="/home_health/index.html" role="button">Is Home Health the right fit?</a>
+<a class="btn btn-danger" href="/palliative/index.html" role="button">What is Palliative Care?</a>
+<a class="btn btn-warning" href="/hospice/index.html" role="button">Using Hospice for short or long term care </a>
+<a class="btn btn-info" href="/assisted/index.html" role="button">Assisted Living </a>
+<a class="btn btn-dark" href="/long_term/index.html" role="button">Long Term Planning</a>
 </div>
 <div class="text-paragraph">
 <p>Being the caregiver for someone who is declining in health is like navigating through a blizzard!  There are so many unknown factors and new paths to find and pursue.  The goal of this website is to provide families with information about where to turn when they are faced with the challenge of meeting the needs of a loved one who is declining. </p>
