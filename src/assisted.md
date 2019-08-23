@@ -3,14 +3,14 @@ title: Assisted Living
 template: main.hbt
 ---
 <div class="btn-group-vertical float-right" style="width:33%;">
-<a class="btn btn-primary" href="/build/options/index.html" role="button">What are the options when health starts to decline?</a>
-<a class="btn btn-secondary" href="/build/personal_care/index.html" role="button">What is Personal Care  or Private Duty</a>
-<a class="btn btn-primary" href="/build/therapy/index.html" role="button">Using Therapy for physical strength, swallowing after a stroke,  or speech</a>
-<a class="btn btn-success" href="/build/home_health/index.html" role="button">Is Home Health the right fit?</a>
-<a class="btn btn-danger" href="/build/palliative/index.html" role="button">What is Palliative Care?</a>
-<a class="btn btn-warning" href="/build/hospice/index.html" role="button">Using Hospice for short or long term care </a>
-<a class="btn btn-info" href="/build/assisted/index.html" role="button">Assisted Living </a>
-<a class="btn btn-dark" href="/build/long_term/index.html" role="button">Long Term Planning</a>
+<a class="btn btn-primary" href="/options/index.html" role="button">What are the options when health starts to decline?</a>
+    <a class="btn btn-secondary" href="/personal_care/index.html" role="button">What is Personal Care  or Private Duty</a>
+    <a class="btn btn-primary" href="/therapy/index.html" role="button">Using Therapy for physical strength, swallowing after a stroke,  or speech</a>
+    <a class="btn btn-success" href="/home_health/index.html" role="button">Is Home Health the right fit?</a>
+    <a class="btn btn-danger" href="/palliative/index.html" role="button">What is Palliative Care?</a>
+    <a class="btn btn-warning" href="/hospice/index.html" role="button">Using Hospice for short or long term care </a>
+    <a class="btn btn-info" href="/assisted/index.html" role="button">Assisted Living </a>
+    <a class="btn btn-dark" href="/long_term/index.html" role="button">Long Term Planning</a>
 </div>
 <div class="text-paragraph contentDiv">
 
