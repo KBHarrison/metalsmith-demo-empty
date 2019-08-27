@@ -2,6 +2,7 @@
 
 <title>{{title}}</title>
 <h1 class="mt-5">{{title}}</h1>
+{{> menu}}
 <article>
     {{{contents}}}
 </article>

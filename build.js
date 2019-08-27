@@ -3,6 +3,7 @@ var Metalsmith = require('metalsmith'),
     templates = require('metalsmith-templates'),
     collections = require('metalsmith-collections'),
     permalinks = require('metalsmith-permalinks');
+    discoverPartials = require('metalsmith-discover-partials')
 
 Metalsmith(__dirname)
     .use(collections({
@@ -18,11 +19,16 @@ Metalsmith(__dirname)
     .use(permalinks({
         pattern: ':collections/:title'
     }))
+  .use(discoverPartials({
+    directory: 'partials',
+    pattern: /\.hbs$/
+  }))
     .use(templates({
         engine: 'handlebars',
         partials: {
             header: 'partials/header',
-            footer: 'partials/footer'
+            footer: 'partials/footer',
+            menu: 'partials/menu'
         }
     }))
     .destination('./build')

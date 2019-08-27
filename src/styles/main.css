@@ -17,6 +17,7 @@
 img {
     width:100%;
     height:auto;
+    padding: 10px;
 }
 p {
     text-indent:30px;
@@ -34,11 +35,7 @@ footer {
     bottom:0;
     
 }
-.img-container {
-  float: left;
-  width: 33.33%; /* three containers (use 25% for four, and 50% for two, etc) */
-  padding: 5px; /* if you want space between the images */
-}
+
 #personal_care {
     width:25%;
 }
@@ -58,4 +55,8 @@ h1 {
     font-style: italic;
     font-size:9;
     
+}
+#challenge {
+    width: 65%;
+    left:0;
 }
