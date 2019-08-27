@@ -8,6 +8,9 @@
     top:5px;
     display:inline-block;
     float:right;
+    background-color:antiquewhite;
+    border:black;
+    color:black;
 }
 
 .inline {
@@ -53,10 +56,20 @@ h1 {
 }
 .reference {
     font-style: italic;
-    font-size:9;
+    font-size: small;
+    text-indent:0;
     
 }
 #challenge {
     width: 65%;
     left:0;
+}
+
+#church {
+    width:65%;
+    left:0;
+}
+
+.underline {
+    text-decoration:underline;
 }
